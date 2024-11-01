@@ -5,8 +5,8 @@ using UnityEngine;
 public class GameController : MonoBehaviour
 {
 
-    // proiedades do chão
-    [Header("Configuração do Chão")]
+    // proiedades do chï¿½o
+    [Header("Configuraï¿½ï¿½o do Chï¿½o")]
     public float _chaoDestruido;
     public float _chaoTamanho;
     public float _chaoVelocidade;
